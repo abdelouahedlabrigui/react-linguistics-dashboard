@@ -83,6 +83,14 @@ This repository contains three React components designed for analyzing news data
 -   `useState` hook
 -   UI components from your preferred library (e.g., `Card` and `Button` from `@/components/ui/card` and `@/components/ui/button` respectively)
 
+### Linguistic Analysis Search
+
+![alt text](linguistics-apis/screenshots/linguistic-analysis-search.png)
+
+### Psycho-Linguistic Analysis Search
+
+![alt text](linguistics-apis/screenshots/psycho-linguistics-analysis-search.png)
+
 ## Contributing
 
 Contributions are welcome! If you have suggestions for improvements or find any issues, please open a pull request or submit an issue.
